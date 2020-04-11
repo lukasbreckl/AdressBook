@@ -17,7 +17,7 @@ namespace AdressBookUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            ABLibrary.GlobalConfig.InitializeConnection(DatabaseType.sql);
+            ABLibrary.GlobalConfig.InitializeConnection(DatabaseType.TextFile);
             Application.Run(new NewContactForm());
         }
     }

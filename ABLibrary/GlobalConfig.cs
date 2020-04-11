@@ -21,7 +21,8 @@ namespace ABLibrary
             }
             else if (db == DatabaseType.TextFile)
             {
-                //TODO - create textconnection
+                TextConnector TextFile = new TextConnector();
+                Connection = TextFile;
             }
 
         }
