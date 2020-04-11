@@ -1,0 +1,15 @@
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\AdressBookUI.exe.config
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\AdressBookUI.exe
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\AdressBookUI.pdb
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\ABLibrary.dll
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\Dapper.dll
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\ABLibrary.pdb
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\bin\Debug\Dapper.xml
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.NewContactForm.resources
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.Properties.Resources.resources
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.csproj.CopyComplete
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.exe
+C:\Users\lukas\source\repos\AdressBook\AdressBookUI\obj\Debug\AdressBookUI.pdb

@@ -1,0 +1,9 @@
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\obj\Debug\ABLibrary.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\obj\Debug\ABLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\bin\Debug\ABLibrary.dll
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\bin\Debug\ABLibrary.pdb
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\bin\Debug\Dapper.dll
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\bin\Debug\Dapper.xml
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\obj\Debug\ABLibrary.csproj.CopyComplete
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\obj\Debug\ABLibrary.dll
+C:\Users\lukas\source\repos\AdressBook\ABLibrary\obj\Debug\ABLibrary.pdb
